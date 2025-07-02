@@ -1,1 +1,2 @@
-# THM Lo-Fi
+# Lo-Fi THM (easy)
+
