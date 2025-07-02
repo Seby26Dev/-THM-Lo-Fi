@@ -1,2 +1,2 @@
-# Lo-Fi THM (easy)
+# Lo-Fi Walkthrough
 
