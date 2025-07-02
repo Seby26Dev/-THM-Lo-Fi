@@ -1,2 +1,2 @@
-# Lo-Fi Walkthrough
+# Lo-Fi write-up
 
